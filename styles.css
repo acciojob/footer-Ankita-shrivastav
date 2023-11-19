@@ -9,5 +9,7 @@
 }
 .media-icons{
 	display:flex;
-	justify-content:right;
+	justify-content:space-between;
+	gap:15px;
+	
 }

@@ -6,10 +6,11 @@
 	color:white;
 	padding:25px;
 	font-size:30px;
+	display:flex;
+	justify-content:space-between;
 }
 .media-icons{
 	display:flex;
-	justify-content:space-between;
 	gap:15px;
 	
 }

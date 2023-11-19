@@ -1,6 +1,7 @@
 .content{
 	background-color:black;
 	height:350px;
+	color:white;
 }
 .top{
 	color:white;
@@ -12,5 +13,22 @@
 .media-icons{
 	display:flex;
 	gap:15px;
-	
 }
+.link-boxes{
+	display:flex;
+	justify-items:center;
+}
+.links{
+	display:flex;
+	flex-direction:column;
+}
+li{
+	list-style-type:none;
+	color:lightgrey;
+	padding:4px;
+}
+.bottom-details{
+	background-color:grey;
+	padding:1px;
+}
+	

@@ -31,4 +31,16 @@ li{
 	background-color:grey;
 	padding:1px;
 }
+#bottom{
+	background-color:#36454F;
+	margin-bottom:0px;
+	height:50px;
+	color:lightgrey;
+	display:flex;
+	gap:220px;
+}
+p{
+	margin-left:60px;
+}
+
 	

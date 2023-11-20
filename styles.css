@@ -21,7 +21,6 @@
 .links{
 	display:flex;
 	flex-direction:column;
-	margin-top: 100px;
 }
 li{
 	list-style-type:none;
